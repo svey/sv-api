@@ -2,6 +2,7 @@
     {
       "exercise": "Wall Extensions",
       "programming": "5 - 10 reps",
+      "time": 10,
       "category": "Warmup",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -9,6 +10,7 @@
     {
       "exercise": "Band Dislocates",
       "programming": "5 - 10 reps",
+      "time": 10,
       "category": "Warmup",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -16,6 +18,7 @@
     {
       "exercise": "Cat-Camels",
       "programming": "5 - 10 reps",
+      "time": 10,
       "category": "Warmup",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -23,6 +26,7 @@
     {
       "exercise": "Scapular Shrugs",
       "programming": "5 - 10 reps",
+      "time": 10,
       "category": "Warmup",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -30,6 +34,7 @@
     {
       "exercise": "Full Body Circles",
       "programming": "5 - 10 reps",
+      "time": 10,
       "category": "Warmup",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -37,6 +42,7 @@
     {
       "exercise": "Front Leg Swings",
       "programming": "5 - 10 reps",
+      "time": 10,
       "category": "Warmup",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -44,6 +50,7 @@
     {
       "exercise": "Side Leg Swings",
       "programming": "5 - 10 reps",
+      "time": 10,
       "category": "Warmup",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -51,20 +58,23 @@
     {
       "exercise": "Wrist Mobility",
       "programming": "5 - 10 reps",
+      "time": 10,
       "category": "Warmup",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
     },
     {
       "exercise": "Handstands",
-      "programming": "5 - 10 minutes",
+      "programming": "5 - 10 minutes (timer)",
+      "time": 600,
       "category": "Skill",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
     },
     {
       "exercise": "Support",
-      "programming": "2 - 3 minutes",
+      "programming": "2 - 3 minutes (timer)",
+      "time": 180,
       "category": "Skill",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -72,6 +82,7 @@
     {
       "exercise": "Pullups",
       "programming": "3x 5 - 8 reps",
+      "time": 90,
       "category": "Strength",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -79,6 +90,7 @@
     {
       "exercise": "Dips",
       "programming": "3x 5 - 8 reps",
+      "time": 90,
       "category": "Strength",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -86,13 +98,15 @@
     {
       "exercise": "Squats",
       "programming": "Squats: 3x 5 - 8 reps",
+      "time": 90,
       "category": "Strength",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
     },
     {
       "exercise": "L-Sits",
-      "programming": "3x 5 - 8 reps",
+      "programming": "30 second holds (timer)",
+      "time": 30,
       "category": "Strength",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -100,6 +114,7 @@
     {
       "exercise": "Pushups",
       "programming": "3x 5 - 8 reps",
+      "time": 90,
       "category": "Strength",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
@@ -107,6 +122,7 @@
     {
       "exercise": "Rows",
       "programming": "3x 5 - 8 reps",
+      "time": 90,
       "category": "Strength",
       "url": null,
       "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
