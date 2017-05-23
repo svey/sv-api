@@ -5,7 +5,7 @@
       "time": 10,
       "category": "Warmup",
       "url": null,
-      "image": "https://media.giphy.com/media/9GimADqtnpAPe/giphy.gif"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Band Dislocates",
@@ -13,7 +13,7 @@
       "time": 10,
       "category": "Warmup",
       "url": null,
-      "image": "https://media.tenor.co/images/575e6a60f14e0a816b455d7161de7c4b/tenor.gif"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Cat-Camels",
@@ -21,7 +21,7 @@
       "time": 10,
       "category": "Warmup",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Scapular Shrugs",
@@ -29,7 +29,7 @@
       "time": 10,
       "category": "Warmup",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Full Body Circles",
@@ -37,7 +37,7 @@
       "time": 10,
       "category": "Warmup",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Front Leg Swings",
@@ -45,7 +45,7 @@
       "time": 10,
       "category": "Warmup",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Side Leg Swings",
@@ -53,7 +53,7 @@
       "time": 10,
       "category": "Warmup",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Wrist Mobility",
@@ -61,7 +61,7 @@
       "time": 10,
       "category": "Warmup",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Handstands",
@@ -69,7 +69,7 @@
       "time": 600,
       "category": "Skill",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Support",
@@ -77,7 +77,7 @@
       "time": 180,
       "category": "Skill",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Pullups",
@@ -85,7 +85,7 @@
       "time": 90,
       "category": "Strength",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Dips",
@@ -93,7 +93,7 @@
       "time": 90,
       "category": "Strength",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Squats",
@@ -101,7 +101,7 @@
       "time": 90,
       "category": "Strength",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "L-Sits",
@@ -109,7 +109,7 @@
       "time": 30,
       "category": "Strength",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Pushups",
@@ -117,7 +117,7 @@
       "time": 90,
       "category": "Strength",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     },
     {
       "exercise": "Rows",
@@ -125,6 +125,6 @@
       "time": 90,
       "category": "Strength",
       "url": null,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61McsadO1OL.jpg"
+      "image": "https://api-sv.herokuapp.com/images/liftu.png"
     }
   ]
