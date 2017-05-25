@@ -117,7 +117,7 @@
       "time": 90,
       "category": "Strength",
       "url": null,
-      "image": "https://api-sv.herokuapp.com/images/liftu.png"
+      "image": "https://api-sv.herokuapp.com/bodyweightfitness/media/pushups"
     },
     {
       "exercise": "Rows",
